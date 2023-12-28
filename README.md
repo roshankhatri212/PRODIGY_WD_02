@@ -31,5 +31,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 This stopwatch web application was created as a simple project for learning purposes.
-Inspiration from OpenAI and the GPT-3.5 language model.
+
 Enjoy using your stylish stopwatch web application! If you have any issues or suggestions, feel free to open an issue.
