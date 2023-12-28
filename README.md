@@ -10,7 +10,7 @@ Preview
 How to Use
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/stopwatch-app.git
+git clone https://github.com/roshankhatri212/PRODIGY_WD_02.git
 Open the index.html file in your web browser to launch the stopwatch application.
 
 Use the buttons to control the stopwatch:
